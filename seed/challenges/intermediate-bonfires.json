@@ -544,7 +544,10 @@
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
-      "descriptionPt": []
+      "descriptionPt": [],
+       "hints": ["Create a regex to for all white spaces and underscores.",
+                "You will also have to make everything lowercase.",
+                "The tricky part is getting the regex part to work, once you do that then just turn the uppercase to lowercase and replace spaces with underscores using <code>replace()</code>"]
     },
     {
       "id": "a5229172f011153519423690",
